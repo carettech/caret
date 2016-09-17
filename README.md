@@ -1,1 +1,3 @@
 # caret
+Sales pipeline
+- Leads
